@@ -5,7 +5,8 @@
   <a href="https://kevinfocke.com/Kevin_Focke_CV.pdf">CV</a> | 
   <a href="https://twitter.com/kevinfocke">Twitter</a>
 </p>
-
+<hr />
+<h3 align="center">I'm currently looking for a FinTech or Data Science job</h3>
 <hr />
 <h3 align="center">Life motto: Let's get it done well! 🏆</h3>
 
