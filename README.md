@@ -9,7 +9,7 @@
 <hr />
 <h3 align="center">Life motto: Let's get it done well! 🏆</h3>
 
-<h3 align="center">Passionate about:</h3>
+<h3 align="center">Love programming in:</h3>
 <p align="center">
   <img title="Python" alt="Python" src="/images/python.svg" width="50" height="50" />
   <img title="Pandas" alt="Pandas" src="/images/pandas_secondary_white.svg" width="50" height="50" />
