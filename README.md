@@ -1,16 +1,33 @@
-### Hi there 👋
+<h3 align="center">👋 Hello I'm Kevin Focke. I'm passionate about building solutions to challenging problems.</h3>
+<p align="center">
+  <a href="https://kevinfocke.com">Website</a> | 
+  <a href="https://www.linkedin.com/in/kevinfocke/">LinkedIn</a> | 
+  <a href="https://kevinfocke.com/Kevin_Focke_CV.pdf">CV</a> | 
+  <a href="https://twitter.com/kevinfocke">Twitter</a>
+</p>
 
-<!--
-**KevinFocke/KevinFocke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr />
+<h3 align="center">Life motto: Let's get it done well! 🏆</h3>
 
-Here are some ideas to get you started:
+<h3 align="center">Passionate about:</h3>
+<p align="center">
+  <img title="Python" alt="Python" src="/images/python.svg" width="50" height="50" />
+  <img title="Pandas" alt="Pandas" src="/images/pandas_secondary_white.svg" width="50" height="50" />
+  <img title="Prefect" alt="Prefect" src="/images/prefect-logo-mark-gradient.png" width="27" height="43" />
+  <img title="C" alt="C" src="/images/c.svg" width="50" height="50" />
+ </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Other skills:</h3>
+  <p align="center">
+  <img title="Javascript" alt="Javascript" src="/images/javascript.svg" width="50" height="50" />
+  <img title="Docker" alt="Docker" src="/images/docker.png" width="50" height="50" />
+  <img title="Git" alt="Git" src="/images/Git-Icon-1788C.png" width="50" height="50" />
+  
+ </p>
+ 
+<h3 align="center">Learning:</h3>
+
+   <p align="center">
+   <img title="C++" alt="C++" src="/images/cpp.svg" width="50" height="50" />
+   <img title="R" alt="R" src="/images/R_logo.png" width="50" height="50" />
+   </p>
