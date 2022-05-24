@@ -6,7 +6,7 @@
   <a href="https://twitter.com/kevinfocke">Twitter</a>
 </p>
 <hr />
-<h3 align="center">I'm currently looking for a FinTech or Data Science job</h3>
+<h3 align="center">I'm currently looking for a FinTech or Data Science job. Contact me via <a href="https://www.linkedin.com/in/kevinfocke/">LinkedIn</a></h3>
 <hr />
 <h3 align="center">Life motto: Let's get it done well! 🏆</h3>
 
